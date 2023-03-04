@@ -11,7 +11,7 @@ int main(void)
 	int ch = 'a';
 	int CH = 'A';
 
-	while (ch <= 'Z')
+	while (ch <= 'z')
 	{
 		putchar(ch);
 		ch++;
